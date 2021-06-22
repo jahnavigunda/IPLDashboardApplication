@@ -1,0 +1,5 @@
+
+1. creating react app:
+npx create-react-app frontend  //creates react app in frontend folder under src.
+
+2. npm start --> for starting the react app nad opens the local host port.
